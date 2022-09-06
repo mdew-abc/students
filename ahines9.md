@@ -31,3 +31,6 @@ teams that they will be competing against. This program outputs meet result time
 The GKAISA city meet championship is one of the largest in the south, with over a thousand swimmers and 4010 event entries,
 these results files are very long and time consuming to look through manually. And with over 30
 teams, there are many coaches who would buy or use this software.
+
+
+## [Link](https://d1nmxxg9d5tdo.cloudfront.net/3002/files/results_-_full_meet.pdf?1627768541) to an example results file
